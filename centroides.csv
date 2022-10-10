@@ -1,0 +1,16 @@
+select,id,codreg,codpro,codcom,nom_reg,nom_pro,nom_com,X,Y
+"0","196","8","161","16109",Región del Biobío,Diguillín,Yungay,-72.24653,-37.19841
+"1","5","01","011","01101",Región de Tarapacá,Iquique,Iquique,-69.39300,-20.21326
+"2","12","02","021","02104",Región de Antofagasta,Antofagasta,Taltal,-69.11503,-23.52769
+"3","23","03","033","03301",Región de Atacama,Huasco,Vallenar,-69.90260,-27.38877
+"4","30","04","042","04203",Región de Coquimbo,Choapa,Los Vilos,-70.85875,-30.61317
+"5","45","05","056","05606",Región de Valparaíso,San Antonio,Santo Domingo,-70.95795,-32.78144
+"6","148","06","061","06112",Región del Libertador General Bernardo O'Higgins,Cachapoal,Peumo,-71.04668,-34.43598
+"7","166","07","074","07404",Región del Maule,Linares,Parral,-71.44602,-35.62056
+"9","251","09","091","09120",Región de La Araucanía,Cautín,Villarrica,-72.27595,-38.64815
+"10","294","10","102","10208",Región de Los Lagos,Chiloé,Quellón,-72.89712,-42.02896
+"11","324","11","113","11303",Región del General Carlos Ibañez del Campo,Capitán Prat,Tortel,-73.24104,-46.38714
+"12","335","12","122","12201",Región de Magallanes y de la Antártica Chilena,Antártica Chilena,Cabo de Hornos,-72.03272,-52.39212
+"13","81","13","135","13502",Región Metropolitana de Santiago,Melipilla,Alhué,-70.62755,-33.60433
+"14","282","14","142","14204",Región de Los Ríos,Ranco,Río Bueno,-72.57590,-40.00315
+"15","1","15","151","15102",Región de Arica y Parinacota,Arica,Camarones,-69.62827,-18.49631
